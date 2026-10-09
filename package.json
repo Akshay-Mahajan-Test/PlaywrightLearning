@@ -7,9 +7,12 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
+    "allure-playwright": "^3.13.0",
     "tsx": "^4.23.15"
   },
   "dependencies": {
-    "playwright": "^1.63.0"
+    "playwright": "^1.63.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
   }
 }
